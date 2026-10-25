@@ -5,7 +5,7 @@ The metadata and environmental observations indicate:
 
 The image was taken on December 3rd, 2023
 The approximate time was 18:00 (early evening).
-The location is in Paris, within a central and upscale area
+The location is in Paris, within a central and upscale area.
 The scene is located near the intersection of a Rue and an Avenue.
 Your objective is to determine the closest metro station to the photographed location, using only the contextual and visual clues provided.
 
