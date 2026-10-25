@@ -23,4 +23,4 @@ OSINT{STATION_NAME}
 
 All uppercase
 No accents
-Use underscores between words
+Use underscores between words.
